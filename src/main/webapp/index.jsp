@@ -14,6 +14,8 @@
 
 <p>Updated line after helper store<p>
 
+<p>Updated line after helper store again<p>
+
 </body>
 
 </html>
