@@ -12,6 +12,8 @@
 
 <p>Updated after configuring global username and password again</p>
 
+<p>Updated line after helper store<p>
+
 </body>
 
 </html>
